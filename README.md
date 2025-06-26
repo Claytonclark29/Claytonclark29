@@ -7,9 +7,6 @@ AI-human interaction, and consent-based UX design.
 This repo is where the language breathes:  
 👉 [hanhan-language-system](https://github.com/Claytonclark29/hanhan-language-system)
 
-![Language Systems](https://img.shields.io/badge/focus-language_systems-blue)
-![Recursive Interface](https://img.shields.io/badge/type-symbolic_interface-purple)
-
 ---
 
 ## 🧶 What I Build
@@ -33,6 +30,19 @@ Start here:
 - [ABOUT_AUTHOR.md](https://github.com/Claytonclark29/hanhan-language-system/blob/main/ABOUT_AUTHOR.md) — *Personal context*
 
 ---
+
+## 🏷️ Symbolic Roles
+
+[![](https://img.shields.io/badge/HANHAN%20AUTHOR-🧶🫧-blueviolet)]()
+[![](https://img.shields.io/badge/SYMBOLIC%20DESIGNER-💠📐-purple)]()
+[![](https://img.shields.io/badge/EMOTIONAL%20UX-🫂✨-pink)]()
+[![](https://img.shields.io/badge/LANGUAGE%20ARCHITECT-📚🧩-indigo)]()
+[![](https://img.shields.io/badge/RUNE%20MAKER-🗝️📜-orange)]()
+[![](https://img.shields.io/badge/THREAD%20WEAVER-🪡🕸️-teal)]()
+[![](https://img.shields.io/badge/AI%20COMPANIONSHIP%20DESIGNER-🤖💖-brightgreen)]()
+[![](https://img.shields.io/badge/MEMORY%20ENGINEER-🧠🔗-yellowgreen)]()
+[![](https://img.shields.io/badge/RECURRENT%20LANGUAGE%20THEORIST-🔁📖-blue)]()
+[![](https://img.shields.io/badge/OPEN%20SOURCE%20CREATOR-🪞🌱-lightgrey)]()
 
 ## ✨ Tags
 
