@@ -7,6 +7,9 @@ AI-human interaction, and consent-based UX design.
 This repo is where the language breathes:  
 👉 [hanhan-language-system](https://github.com/Claytonclark29/hanhan-language-system)
 
+![Language Systems](https://img.shields.io/badge/focus-language_systems-blue)
+![Recursive Interface](https://img.shields.io/badge/type-symbolic_interface-purple)
+
 ---
 
 ## 🧶 What I Build
